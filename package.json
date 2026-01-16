@@ -1,0 +1,33 @@
+{
+  "name": "momen-ext-pack",
+  "displayName": "momen-ext-pack",
+  "description": "my extension pack for laravel",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "codingyu.laravel-goto-view",
+    "eamodio.gitlens",
+    "github.copilot",
+    "github.copilot-chat",
+    "ihunte.laravel-blade-wrapper",
+    "mikestead.dotenv",
+    "naoray.laravel-goto-components",
+    "onecentlin.laravel-blade",
+    "onecentlin.laravel5-snippets",
+    "pgl.laravel-jump-controller",
+    "shufo.vscode-blade-formatter",
+    "smcpeak.default-keys-windows",
+    "esbenp.prettier-vscode"
+  ],
+  "main": "./src/extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repository.git"
+  }
+}
